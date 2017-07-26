@@ -24,4 +24,4 @@
 ## cheerio        
 var cheerio = require('cheerio');
 
-语法类似jquery,
+语法类似jquery,用于筛选内容
