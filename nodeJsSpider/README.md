@@ -1,13 +1,13 @@
 # nodejs爬虫
 ### index.js
-http://jandan.net/ooxx/page-1
-http://jandan.net/ooxx/page-2
+- http://jandan.net/ooxx/page-1
+- http://jandan.net/ooxx/page-2
 爬取美女图片存到images
 
 ### qiubai_index.js
 规则很简单
-http://www.qiushibaike.com/text/page/1
-http://www.qiushibaike.com/text/page/2
+- http://www.qiushibaike.com/text/page/1
+- http://www.qiushibaike.com/text/page/2
 爬取内容保存在output.txt里面
 
 
